@@ -22,7 +22,7 @@ export function Footer() {
             <h3 className="text-white font-bold text-lg mb-4">Quick Links</h3>
             <ul className="space-y-2">
               {[
-                { label: 'Home', href: '/home' },
+                { label: 'Home', href: '#home' },
                 { label: 'About Us', href: '/about' },
                 { label: 'Services', href: '/services' },
                 { label: 'News', href: '/#news' },
