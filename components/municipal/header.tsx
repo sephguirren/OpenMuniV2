@@ -9,7 +9,7 @@ import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet'
 import type { NavLink } from '@/lib/types'
 
 const navLinks: NavLink[] = [
-  { label: 'Home', href: '#home' },
+  { label: 'Home', href: '/' },
   { label: 'About Us', href: '/about' },
   { label: 'Tourism', href: '/tourism' },
   { label: 'Transparency', href: '/transparency' },
